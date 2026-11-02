@@ -45,9 +45,3 @@ The **Online Book Store Management System** bridges the gap between store admini
 - Relational mapping with DFD Level 0, 1, 2 and ER diagram design.
 
 ---
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
